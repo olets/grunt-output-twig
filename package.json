@@ -40,6 +40,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "twig": "~0.7.0"
+    "twig": "^1.10.5"
   }
 }
